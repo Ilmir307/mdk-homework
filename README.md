@@ -99,3 +99,7 @@
 | [1875-pep8-git-report.md](1875-pep8-git-report.md) | PEP 8 + Git с тегом версии (репозиторий [pep8-versioned-demo](https://github.com/Ilmir307/pep8-versioned-demo)) |
 | [1875-prezentaciya-pep8.pptx](1875-prezentaciya-pep8.pptx) | Презентация к заданию 1875 (5 слайдов) |
 | [1876-furps-taxi-scheme.md](1876-furps-taxi-scheme.md) | FURPS+ такси: таблица Ф/НФ + схема потока данных |
+| [1877-reglament-sklad.md](1877-reglament-sklad.md) | Регламент взаимодействия команды (ИС склада) |
+| [1878-pep8-fix-report.md](1878-pep8-fix-report.md) | Анализ кода и исправление нарушений (репозиторий [pep8-fix-demo](https://github.com/Ilmir307/pep8-fix-demo)) |
+| [1878-pycodestyle-log.txt](1878-pycodestyle-log.txt) | Задание 1878: лог нарушений до исправления |
+| [1910-vybor-standartov.md](1910-vybor-standartov.md) | Анализ и выбор стандартов требований (таблица + блок-схема) |

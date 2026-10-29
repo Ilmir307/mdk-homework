@@ -1,0 +1,12 @@
+weather.py:1:21: E231 missing whitespace after ','
+weather.py:2:3: E111 indentation is not a multiple of 4
+weather.py:2:10: E225 missing whitespace around operator
+weather.py:3:3: E111 indentation is not a multiple of 4
+weather.py:3:11: E225 missing whitespace around operator
+weather.py:4:3: E111 indentation is not a multiple of 4
+weather.py:5:3: E111 indentation is not a multiple of 4
+weather.py:5:25: E231 missing whitespace after ','
+weather.py:6:3: E111 indentation is not a multiple of 4
+weather.py:8:1: E305 expected 2 blank lines after class or function definition, found 1
+weather.py:8:2: E225 missing whitespace around operator
+weather.py:8:23: E231 missing whitespace after ','
