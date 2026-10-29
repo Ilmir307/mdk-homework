@@ -10,3 +10,10 @@
 | [1638-furps.py](1638-furps.py) | Скрипт классификации требований к заданию 1638 |
 | [1549-furps-upravlenie-proektami.md](1549-furps-upravlenie-proektami.md) | Анализ требований к ИС управления проектами по модели FURPS+ |
 | [1540-standartizaciya-trebovaniy.docx](1540-standartizaciya-trebovaniy.docx) | Анализ и стандартизация требований к ПО (отчёт, .docx) |
+| [1551-organizaciya-komandy.md](1551-organizaciya-komandy.md) | Организация работы в команде разработчиков (отчёт + план) |
+| [1551-prezentaciya.pptx](1551-prezentaciya.pptx) | Презентация к заданию 1551 (PowerPoint, 8 слайдов) |
+| [1639-plan-komandy-sklad.md](1639-plan-komandy-sklad.md) | План организации работы команды (ИС управления складом) |
+| [task1552_data_module.py](task1552_data_module.py) | Задание 1552: модуль чтения данных из файла |
+| [task1552_processing_module.py](task1552_processing_module.py) | Задание 1552: модуль обработки данных (сортировка) |
+| [task1552_main.py](task1552_main.py) | Задание 1552: основной файл, интеграция модулей |
+| [task1552-data.txt](task1552-data.txt) | Задание 1552: пример файла с данными |
