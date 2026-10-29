@@ -95,3 +95,7 @@
 | [task1873_main.py](task1873_main.py) | Задание 1873: основной файл |
 | [task1873-data.txt](task1873-data.txt) | Задание 1873: набор данных 1 |
 | [task1873-data2.txt](task1873-data2.txt) | Задание 1873: набор данных 2 |
+| [1874-taxi-standarty.md](1874-taxi-standarty.md) | FURPS+ такси: соответствие стандартам, предложения по улучшению |
+| [1875-pep8-git-report.md](1875-pep8-git-report.md) | PEP 8 + Git с тегом версии (репозиторий [pep8-versioned-demo](https://github.com/Ilmir307/pep8-versioned-demo)) |
+| [1875-prezentaciya-pep8.pptx](1875-prezentaciya-pep8.pptx) | Презентация к заданию 1875 (5 слайдов) |
+| [1876-furps-taxi-scheme.md](1876-furps-taxi-scheme.md) | FURPS+ такси: таблица Ф/НФ + схема потока данных |
