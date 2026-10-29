@@ -34,3 +34,8 @@
 | [task1555-data.txt](task1555-data.txt) | Задание 1555: пример файла с данными |
 | [1556-git-pep8-standarty.md](1556-git-pep8-standarty.md) | Стандарты кодирования в Git (отчёт; репозиторий [pep8-git-demo](https://github.com/Ilmir307/pep8-git-demo), [PR #1](https://github.com/Ilmir307/pep8-git-demo/pull/1)) |
 | [1556-pycodestyle-log.txt](1556-pycodestyle-log.txt) | Задание 1556: лог нарушений pycodestyle до исправления |
+| [1557-plan-komandy-web.md](1557-plan-komandy-web.md) | План организации работы команды (веб-приложение управления задачами) |
+| [task1667_csv_processor.py](task1667_csv_processor.py) | Задание 1667: обработка CSV (чтение, фильтрация, сортировка, запись) |
+| [task1667-input.csv](task1667-input.csv) | Задание 1667: входные данные |
+| [task1667-output.csv](task1667-output.csv) | Задание 1667: результат работы программы |
+| [1668-git-pep8-report.md](1668-git-pep8-report.md) | Задание 1668: Git + PEP 8 (отчёт; репозиторий [my_repo](https://github.com/Ilmir307/my_repo)) |
