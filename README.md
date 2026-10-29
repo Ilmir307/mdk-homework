@@ -43,3 +43,9 @@
 | [1669-pravila-komandy.pptx](1669-pravila-komandy.pptx) | Презентация к заданию 1669 (PowerPoint, 8 слайдов) |
 | [1670-standartizaciya-trebovaniy.md](1670-standartizaciya-trebovaniy.md) | Анализ и стандартизация требований (таблица + отчёт ≤500 слов) |
 | [1671-furps-zakazy.md](1671-furps-zakazy.md) | FURPS+ для системы управления заказами интернет-магазина |
+| [1690-kursovaya-module-report.md](1690-kursovaya-module-report.md) | Программный модуль для курсовой (отчёт: алгоритм, код, результаты) |
+| [task1690_kursovaya_module.py](task1690_kursovaya_module.py) | Задание 1690: код программы |
+| [task1690-grades.txt](task1690-grades.txt) | Задание 1690: файл с оценками |
+| [1710-jenkins-ci-report.md](1710-jenkins-ci-report.md) | Настройка Jenkins CI (отчёт; репозиторий [jenkins-ci-demo](https://github.com/Ilmir307/jenkins-ci-demo)) |
+| [1710-pipeline-log.txt](1710-pipeline-log.txt) | Задание 1710: лог прогона этапов пайплайна |
+| [1711-sravnenie-instrumentov.md](1711-sravnenie-instrumentov.md) | Анализ и сравнение инструментальных средств разработки ПО |

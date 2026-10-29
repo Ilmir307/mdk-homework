@@ -1,0 +1,19 @@
+[Этап 1: Сборка] python -m py_compile app.py test_app.py
+OK: синтаксис корректен, байт-код собран
+
+[Этап 2: Тестирование] python -m unittest test_app.py -v
+test_hello (test_app.AppTestCase.test_hello)
+Сервер на случайном порту отвечает 'Hello, World!' с кодом 200. ... 127.0.0.1 - - [29/Oct/2026 21:14:46] "GET / HTTP/1.1" 200 -
+C:\Users\dy\AppData\Local\Programs\Python\Python312\Lib\unittest\case.py:589: ResourceWarning: unclosed <socket.socket fd=440, family=2, type=1, proto=0, laddr=('127.0.0.1', 56071)>
+  if method() is not None:
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.572s
+
+OK
+[Этап 3: Упаковка]
+OK: app.zip создан
+[Этап 4: Развёртывание] копирование в C:/deploy/test
+OK: app.py развёрнут в C:/deploy/test
