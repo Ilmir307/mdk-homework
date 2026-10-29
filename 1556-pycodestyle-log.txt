@@ -1,0 +1,10 @@
+main.py:8:1: E302 expected 2 blank lines, found 1
+main.py:8:14: E201 whitespace after '('
+main.py:8:16: E231 missing whitespace after ','
+main.py:8:18: E202 whitespace before ')'
+main.py:9:9: E117 over-indented
+main.py:9:15: E225 missing whitespace around operator
+main.py:12:1: E305 expected 2 blank lines after class or function definition, found 1
+main.py:14:11: E201 whitespace after '('
+main.py:14:22: E231 missing whitespace after ','
+main.py:14:25: E202 whitespace before ')'

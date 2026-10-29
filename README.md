@@ -26,3 +26,11 @@
 | [1601-instrumenty-prezentaciya.pptx](1601-instrumenty-prezentaciya.pptx) | Презентация к заданию 1601 (PowerPoint, 8 слайдов) |
 | [1641-git-transcript.txt](1641-git-transcript.txt) | Задание 1641: транскрипт команд Git; репозиторий [my_repo](https://github.com/Ilmir307/my_repo) |
 | [1554-standartizaciya-furps.pdf](1554-standartizaciya-furps.pdf) | Анализ и стандартизация требований по FURPS+ (отчёт, PDF) |
+| [1555-integraciya-moduley.md](1555-integraciya-moduley.md) | Разработка и интеграция программных модулей (отчёт) |
+| [task1555_input_module.py](task1555_input_module.py) | Задание 1555: модуль ввода данных |
+| [task1555_processing_module.py](task1555_processing_module.py) | Задание 1555: модуль обработки данных |
+| [task1555_output_module.py](task1555_output_module.py) | Задание 1555: модуль вывода данных |
+| [task1555_main.py](task1555_main.py) | Задание 1555: основной файл, интеграция модулей |
+| [task1555-data.txt](task1555-data.txt) | Задание 1555: пример файла с данными |
+| [1556-git-pep8-standarty.md](1556-git-pep8-standarty.md) | Стандарты кодирования в Git (отчёт; репозиторий [pep8-git-demo](https://github.com/Ilmir307/pep8-git-demo), [PR #1](https://github.com/Ilmir307/pep8-git-demo/pull/1)) |
+| [1556-pycodestyle-log.txt](1556-pycodestyle-log.txt) | Задание 1556: лог нарушений pycodestyle до исправления |
