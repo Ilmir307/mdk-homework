@@ -77,3 +77,9 @@
 | [1788-code-standards-report.md](1788-code-standards-report.md) | Стандарты кодирования в Git (отчёт; репозиторий [code-standards-demo](https://github.com/Ilmir307/code-standards-demo)) |
 | [1788-pylint-log.txt](1788-pylint-log.txt) | Задание 1788: лог нарушений Pylint до исправления |
 | [1789-furps-task-manager.md](1789-furps-task-manager.md) | FURPS+ для системы управления задачами (таблица + mermaid) |
+| [1790-pravila-sklad.md](1790-pravila-sklad.md) | Правила взаимодействия в команде (ИС управления складом) |
+| [1791-standartizaciya-registraciya.md](1791-standartizaciya-registraciya.md) | Стандартизация требования по ISO/IEC 29148, IEEE 830 |
+| [task1838_csv_json.py](task1838_csv_json.py) | Задание 1838: CSV -> консоль + JSON |
+| [task1838-input.csv](task1838-input.csv) | Задание 1838: входные данные |
+| [console_output.txt](console_output.txt) | Задание 1838: вывод в консоль |
+| [json_output.json](json_output.json) | Задание 1838: вывод в JSON |
