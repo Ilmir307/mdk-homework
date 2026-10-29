@@ -83,3 +83,5 @@
 | [task1838-input.csv](task1838-input.csv) | Задание 1838: входные данные |
 | [console_output.txt](console_output.txt) | Задание 1838: вывод в консоль |
 | [json_output.json](json_output.json) | Задание 1838: вывод в JSON |
+| [1840-dokument-trebovaniy.md](1840-dokument-trebovaniy.md) | Документ требований к системе управления заказами (FURPS+, ГОСТ) |
+| [1841-furps-hotels.md](1841-furps-hotels.md) | FURPS+ для системы бронирования отелей (таблица с важностью) |
