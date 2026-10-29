@@ -103,3 +103,8 @@
 | [1878-pep8-fix-report.md](1878-pep8-fix-report.md) | Анализ кода и исправление нарушений (репозиторий [pep8-fix-demo](https://github.com/Ilmir307/pep8-fix-demo)) |
 | [1878-pycodestyle-log.txt](1878-pycodestyle-log.txt) | Задание 1878: лог нарушений до исправления |
 | [1910-vybor-standartov.md](1910-vybor-standartov.md) | Анализ и выбор стандартов требований (таблица + блок-схема) |
+| [1911-metody-organizacii.md](1911-metody-organizacii.md) | Анализ методов организации работы (Waterfall/Agile/Scrum/Kanban) |
+| [1912-furps-eda.md](1912-furps-eda.md) | FURPS+ для приложения доставки еды |
+| [task1913_csv_to_json.py](task1913_csv_to_json.py) | Задание 1913: CSV -> JSON (pandas/numpy) |
+| [task1913-scores.csv](task1913-scores.csv) | Задание 1913: входные данные |
+| [task1913-result.json](task1913-result.json) | Задание 1913: результат в JSON |

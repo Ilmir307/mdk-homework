@@ -1,0 +1,12 @@
+{
+  "subject_averages": {
+    "Информатика": 4.0,
+    "Математика": 4.25
+  },
+  "overall": {
+    "overall_average": 4.12,
+    "max_score": 5,
+    "min_score": 3,
+    "records_count": 8
+  }
+}
