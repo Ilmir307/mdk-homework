@@ -39,3 +39,7 @@
 | [task1667-input.csv](task1667-input.csv) | Задание 1667: входные данные |
 | [task1667-output.csv](task1667-output.csv) | Задание 1667: результат работы программы |
 | [1668-git-pep8-report.md](1668-git-pep8-report.md) | Задание 1668: Git + PEP 8 (отчёт; репозиторий [my_repo](https://github.com/Ilmir307/my_repo)) |
+| [1669-pravila-komandy.md](1669-pravila-komandy.md) | Правила взаимодействия в команде разработчиков (документ) |
+| [1669-pravila-komandy.pptx](1669-pravila-komandy.pptx) | Презентация к заданию 1669 (PowerPoint, 8 слайдов) |
+| [1670-standartizaciya-trebovaniy.md](1670-standartizaciya-trebovaniy.md) | Анализ и стандартизация требований (таблица + отчёт ≤500 слов) |
+| [1671-furps-zakazy.md](1671-furps-zakazy.md) | FURPS+ для системы управления заказами интернет-магазина |
