@@ -17,3 +17,8 @@
 | [task1552_processing_module.py](task1552_processing_module.py) | Задание 1552: модуль обработки данных (сортировка) |
 | [task1552_main.py](task1552_main.py) | Задание 1552: основной файл, интеграция модулей |
 | [task1552-data.txt](task1552-data.txt) | Задание 1552: пример файла с данными |
+| [1600-pylint-report.md](1600-pylint-report.md) | Анализ качества кода статическим анализатором Pylint (отчёт) |
+| [task1600_original.py](task1600_original.py) | Задание 1600: исходный фрагмент кода с нарушениями |
+| [task1600_fixed.py](task1600_fixed.py) | Задание 1600: исправленный код (Pylint 10.00/10) |
+| [1640-standartizaciya-biznes-processov.md](1640-standartizaciya-biznes-processov.md) | Анализ и стандартизация требований (ПО для бизнес-процессов) |
+| [1553-git-pep8-report.md](1553-git-pep8-report.md) | Работа с Git и применение PEP 8 (отчёт; репозиторий [MyRepository](https://github.com/Ilmir307/MyRepository)) |
