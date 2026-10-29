@@ -120,3 +120,12 @@
 | [1942-plan-proekta.md](1942-plan-proekta.md) | План организации работы команды (проект учёта заказов) |
 | [1942-plan-proekta.pptx](1942-plan-proekta.pptx) | Презентация плана к заданию 1942 |
 | [1943-furps-analiz.md](1943-furps-analiz.md) | Анализ требований по FURPS+ (таблица с параметрами) |
+| [1602-git-basics-report.md](1602-git-basics-report.md) | Git: clone/add/commit/push/pull (репозиторий [git-basics-demo](https://github.com/Ilmir307/git-basics-demo)) |
+| [1603-memory-report.md](1603-memory-report.md) | Поиск утечек памяти и покрытие кода (отчёт) |
+| [task1603_leaky.py](task1603_leaky.py) | Задание 1603: версия с утечками |
+| [task1603_fixed.py](task1603_fixed.py) | Задание 1603: исправленная версия |
+| [task1603_measure.py](task1603_measure.py) | Задание 1603: скрипт замеров |
+| [task1604_stdio_module.py](task1604_stdio_module.py) | Задание 1604: интеграционный модуль stdin/stdout |
+| [1605-debugging-report.md](1605-debugging-report.md) | Отладка программных модулей (отчёт) |
+| [task1605_buggy.py](task1605_buggy.py) | Задание 1605: код с ошибками |
+| [task1605_fixed.py](task1605_fixed.py) | Задание 1605: исправленный код |
