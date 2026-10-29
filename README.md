@@ -72,3 +72,8 @@
 | [task1742_main.py](task1742_main.py) | Задание 1742: основной модуль |
 | [1744-metody-testirovaniya.md](1744-metody-testirovaniya.md) | Анализ и сравнение методов тестирования ПО |
 | [1746-git-practice-report.md](1746-git-practice-report.md) | Работа в Git: ветки, слияние (репозиторий [git-practice](https://github.com/Ilmir307/git-practice)) |
+| [1787-modules-description.md](1787-modules-description.md) | Задание 1787: интеграция модулей (описание) |
+| [task1787_word_frequency.py](task1787_word_frequency.py) | Задание 1787: частотный анализ текста (код) |
+| [1788-code-standards-report.md](1788-code-standards-report.md) | Стандарты кодирования в Git (отчёт; репозиторий [code-standards-demo](https://github.com/Ilmir307/code-standards-demo)) |
+| [1788-pylint-log.txt](1788-pylint-log.txt) | Задание 1788: лог нарушений Pylint до исправления |
+| [1789-furps-task-manager.md](1789-furps-task-manager.md) | FURPS+ для системы управления задачами (таблица + mermaid) |

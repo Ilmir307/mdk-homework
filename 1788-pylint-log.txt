@@ -1,0 +1,20 @@
+orders.py:2:22: C0103: Argument name "Id" doesn't conform to snake_case naming style (invalid-name)
+orders.py:2:25: C0103: Argument name "Total" doesn't conform to snake_case naming style (invalid-name)
+orders.py:6:4: C0116: Missing function or method docstring (missing-function-docstring)
+orders.py:6:4: C0103: Method name "GetTotal" doesn't conform to snake_case naming style (invalid-name)
+orders.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+orders.py:9:0: C0116: Missing function or method docstring (missing-function-docstring)
+orders.py:9:0: C0103: Function name "Print_order" doesn't conform to snake_case naming style (invalid-name)
+orders.py:11:4: W0612: Unused variable 'temp_variable' (unused-variable)
+orders.py:13:0: C0103: Constant name "Order1" doesn't conform to UPPER_CASE naming style (invalid-name)
+************* Module discount
+discount.py:2:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+discount.py:3:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+discount.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+discount.py:1:0: C0116: Missing function or method docstring (missing-function-docstring)
+discount.py:1:0: C0103: Function name "Calculate_discount" doesn't conform to snake_case naming style (invalid-name)
+discount.py:1:29: C0103: Argument name "Percent" doesn't conform to snake_case naming style (invalid-name)
+
+-----------------------------------
+Your code has been rated at 0.00/10
+
