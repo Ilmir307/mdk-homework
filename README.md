@@ -57,3 +57,6 @@
 | [1717-pytest-report.md](1717-pytest-report.md) | Тестовый сценарий PyTest (отчёт) |
 | [task1717_calculator.py](task1717_calculator.py) | Задание 1717: модуль калькулятора |
 | [task1717_test_calculator.py](task1717_test_calculator.py) | Задание 1717: тесты PyTest |
+| [1719-evoluciya-instrumentov.md](1719-evoluciya-instrumentov.md) | Анализ эволюции инструментальных средств разработки ПО |
+| [1721-sravnenie-instrumentov-2.md](1721-sravnenie-instrumentov-2.md) | Анализ и сравнение: IDE, Git, CI/CD, Pylint |
+| [task1734_modules_app.py](task1734_modules_app.py) | Задание 1734: приложение с модулями ввода/обработки/вывода |
