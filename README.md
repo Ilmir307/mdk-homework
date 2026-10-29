@@ -85,3 +85,13 @@
 | [json_output.json](json_output.json) | Задание 1838: вывод в JSON |
 | [1840-dokument-trebovaniy.md](1840-dokument-trebovaniy.md) | Документ требований к системе управления заказами (FURPS+, ГОСТ) |
 | [1841-furps-hotels.md](1841-furps-hotels.md) | FURPS+ для системы бронирования отелей (таблица с важностью) |
+| [1842-pandas-report.md](1842-pandas-report.md) | Интеграция модулей: pandas/numpy + CSV (отчёт) |
+| [task1842_pandas_analysis.py](task1842_pandas_analysis.py) | Задание 1842: анализ продаж (pandas/numpy) |
+| [task1842-sales.csv](task1842-sales.csv) | Задание 1842: входные данные |
+| [task1842-result.csv](task1842-result.csv) | Задание 1842: результат агрегации |
+| [1872-agile-plan.md](1872-agile-plan.md) | План управления задачами по Agile (3 спринта) |
+| [task1873_reader.py](task1873_reader.py) | Задание 1873: модуль чтения данных |
+| [task1873_sorter.py](task1873_sorter.py) | Задание 1873: модуль сортировки |
+| [task1873_main.py](task1873_main.py) | Задание 1873: основной файл |
+| [task1873-data.txt](task1873-data.txt) | Задание 1873: набор данных 1 |
+| [task1873-data2.txt](task1873-data2.txt) | Задание 1873: набор данных 2 |
