@@ -8,3 +8,5 @@
 |---|---|
 | [1638-furps.md](1638-furps.md) | Анализ требований к ПО по модели FURPS+ (приложение для заказа такси) |
 | [1638-furps.py](1638-furps.py) | Скрипт классификации требований к заданию 1638 |
+| [1549-furps-upravlenie-proektami.md](1549-furps-upravlenie-proektami.md) | Анализ требований к ИС управления проектами по модели FURPS+ |
+| [1540-standartizaciya-trebovaniy.docx](1540-standartizaciya-trebovaniy.docx) | Анализ и стандартизация требований к ПО (отчёт, .docx) |
