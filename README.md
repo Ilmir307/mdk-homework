@@ -115,3 +115,8 @@
 | [task1914_orders_store.py](task1914_orders_store.py) | Задание 1914: модуль хранения заказов |
 | [task1914_orders_view.py](task1914_orders_view.py) | Задание 1914: модуль ввода-вывода |
 | [task1914_main.py](task1914_main.py) | Задание 1914: основной файл (интеграция) |
+| [1940-trebovaniya-reqms.md](1940-trebovaniya-reqms.md) | Документ требований к системе управления требованиями (приоритеты, зависимости) |
+| [1941-git-hello-report.md](1941-git-hello-report.md) | Git + PEP 8, приветственное приложение (репозиторий [hello-app](https://github.com/Ilmir307/hello-app)) |
+| [1942-plan-proekta.md](1942-plan-proekta.md) | План организации работы команды (проект учёта заказов) |
+| [1942-plan-proekta.pptx](1942-plan-proekta.pptx) | Презентация плана к заданию 1942 |
+| [1943-furps-analiz.md](1943-furps-analiz.md) | Анализ требований по FURPS+ (таблица с параметрами) |
