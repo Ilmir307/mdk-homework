@@ -108,3 +108,10 @@
 | [task1913_csv_to_json.py](task1913_csv_to_json.py) | Задание 1913: CSV -> JSON (pandas/numpy) |
 | [task1913-scores.csv](task1913-scores.csv) | Задание 1913: входные данные |
 | [task1913-result.json](task1913-result.json) | Задание 1913: результат в JSON |
+| [task1225_events.py](task1225_events.py) | Задание 1225: событийно-управляемая программа (цикл событий) |
+| [1226-refactoring-report.md](1226-refactoring-report.md) | Оптимизация и рефакторинг кода (отчёт) |
+| [task1226_original.py](task1226_original.py) | Задание 1226: исходный код |
+| [task1226_refactored.py](task1226_refactored.py) | Задание 1226: код после рефакторинга |
+| [task1914_orders_store.py](task1914_orders_store.py) | Задание 1914: модуль хранения заказов |
+| [task1914_orders_view.py](task1914_orders_view.py) | Задание 1914: модуль ввода-вывода |
+| [task1914_main.py](task1914_main.py) | Задание 1914: основной файл (интеграция) |
