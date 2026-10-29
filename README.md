@@ -22,3 +22,7 @@
 | [task1600_fixed.py](task1600_fixed.py) | Задание 1600: исправленный код (Pylint 10.00/10) |
 | [1640-standartizaciya-biznes-processov.md](1640-standartizaciya-biznes-processov.md) | Анализ и стандартизация требований (ПО для бизнес-процессов) |
 | [1553-git-pep8-report.md](1553-git-pep8-report.md) | Работа с Git и применение PEP 8 (отчёт; репозиторий [MyRepository](https://github.com/Ilmir307/MyRepository)) |
+| [1601-instrumentalnye-sredstva.md](1601-instrumentalnye-sredstva.md) | Анализ и классификация инструментальных средств разработки ПО |
+| [1601-instrumenty-prezentaciya.pptx](1601-instrumenty-prezentaciya.pptx) | Презентация к заданию 1601 (PowerPoint, 8 слайдов) |
+| [1641-git-transcript.txt](1641-git-transcript.txt) | Задание 1641: транскрипт команд Git; репозиторий [my_repo](https://github.com/Ilmir307/my_repo) |
+| [1554-standartizaciya-furps.pdf](1554-standartizaciya-furps.pdf) | Анализ и стандартизация требований по FURPS+ (отчёт, PDF) |

@@ -1,0 +1,44 @@
+Транскрипт работы с Git для задания 1641
+(репозиторий: https://github.com/Ilmir307/my_repo)
+================================================
+
+$ git init -b main
+Initialized empty Git repository in .../my_repo/.git/
+
+$ git add example.py
+$ git commit -m "Добавлен example.py с функцией суммы двух чисел"
+[main (root-commit) 60fdcef] Добавлен example.py с функцией суммы двух чисел
+ 1 file changed, 6 insertions(+)
+
+# ... в example.py добавлены docstring, функция main и защита __main__ ...
+
+$ git add example.py
+$ git commit -m "Оформление по PEP 8: docstring, функция main, защита __main__"
+[main 647f715] Оформление по PEP 8: docstring, функция main, защита __main__
+ 1 file changed, 16 insertions(+), 2 deletions(-)
+
+# ... добавлена функция subtract_numbers ...
+
+$ git add example.py
+$ git commit -m "Добавлена функция subtract_numbers"
+[main 2783762] Добавлена функция subtract_numbers
+ 1 file changed, 6 insertions(+)
+
+$ gh repo create my_repo --public --source=. --push
+https://github.com/Ilmir307/my_repo
+ * [new branch]      HEAD -> main
+
+$ git log --oneline
+2783762 Добавлена функция subtract_numbers
+647f715 Оформление по PEP 8: docstring, функция main, защита __main__
+60fdcef Добавлен example.py с функцией суммы двух чисел
+
+$ python -m pycodestyle example.py
+(вывод пустой — нарушений PEP 8 не найдено)
+
+$ python -m pylint example.py
+Your code has been rated at 10.00/10
+
+$ python example.py
+Сумма 3 и 5 равна 8
+Разность 10 и 4 равна 6
