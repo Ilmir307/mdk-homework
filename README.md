@@ -49,3 +49,11 @@
 | [1710-jenkins-ci-report.md](1710-jenkins-ci-report.md) | Настройка Jenkins CI (отчёт; репозиторий [jenkins-ci-demo](https://github.com/Ilmir307/jenkins-ci-demo)) |
 | [1710-pipeline-log.txt](1710-pipeline-log.txt) | Задание 1710: лог прогона этапов пайплайна |
 | [1711-sravnenie-instrumentov.md](1711-sravnenie-instrumentov.md) | Анализ и сравнение инструментальных средств разработки ПО |
+| [1713-api-report.md](1713-api-report.md) | Работа с API и обмен данными между модулями (отчёт) |
+| [task1713_api_module.py](task1713_api_module.py) | Задание 1713: модуль доступа к API |
+| [task1713_processing_module.py](task1713_processing_module.py) | Задание 1713: модуль обработки данных |
+| [task1713_main.py](task1713_main.py) | Задание 1713: основной модуль |
+| [task1715_exceptions.py](task1715_exceptions.py) | Задание 1715: калькулятор с обработкой исключений |
+| [1717-pytest-report.md](1717-pytest-report.md) | Тестовый сценарий PyTest (отчёт) |
+| [task1717_calculator.py](task1717_calculator.py) | Задание 1717: модуль калькулятора |
+| [task1717_test_calculator.py](task1717_test_calculator.py) | Задание 1717: тесты PyTest |
