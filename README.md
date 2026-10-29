@@ -60,3 +60,9 @@
 | [1719-evoluciya-instrumentov.md](1719-evoluciya-instrumentov.md) | Анализ эволюции инструментальных средств разработки ПО |
 | [1721-sravnenie-instrumentov-2.md](1721-sravnenie-instrumentov-2.md) | Анализ и сравнение: IDE, Git, CI/CD, Pylint |
 | [task1734_modules_app.py](task1734_modules_app.py) | Задание 1734: приложение с модулями ввода/обработки/вывода |
+| [1736-klassifikaciya-instrumentov.md](1736-klassifikaciya-instrumentov.md) | Классификация инструментальных средств (таблица + схема взаимодействия) |
+| [1738-ci-cd-report.md](1738-ci-cd-report.md) | CI/CD для Python-проекта: Jenkins + GitHub Actions (репозиторий [python-ci-cd-demo](https://github.com/Ilmir307/python-ci-cd-demo)) |
+| [1740-memory-performance-report.md](1740-memory-performance-report.md) | Анализ производительности и памяти (Valgrind/gcov-подход) |
+| [task1740_leaky.py](task1740_leaky.py) | Задание 1740: исходная версия с проблемами |
+| [task1740_optimized.py](task1740_optimized.py) | Задание 1740: оптимизированная версия |
+| [task1740_measure.py](task1740_measure.py) | Задание 1740: скрипт замеров |
