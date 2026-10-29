@@ -66,3 +66,9 @@
 | [task1740_leaky.py](task1740_leaky.py) | Задание 1740: исходная версия с проблемами |
 | [task1740_optimized.py](task1740_optimized.py) | Задание 1740: оптимизированная версия |
 | [task1740_measure.py](task1740_measure.py) | Задание 1740: скрипт замеров |
+| [1742-api-report.md](1742-api-report.md) | Работа с API через requests, GET и POST (отчёт) |
+| [task1742_api_module.py](task1742_api_module.py) | Задание 1742: модуль API (GET/POST) |
+| [task1742_processing_module.py](task1742_processing_module.py) | Задание 1742: модуль обработки |
+| [task1742_main.py](task1742_main.py) | Задание 1742: основной модуль |
+| [1744-metody-testirovaniya.md](1744-metody-testirovaniya.md) | Анализ и сравнение методов тестирования ПО |
+| [1746-git-practice-report.md](1746-git-practice-report.md) | Работа в Git: ветки, слияние (репозиторий [git-practice](https://github.com/Ilmir307/git-practice)) |
